@@ -1,0 +1,47 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2657,
+    "time": 1751724769,
+    "hash": "74d3a01d1995d12c122f0469b0ce703f85bb9a94"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1721705735,
+    "hash": "0cd4ca8c71b2ca3d6c419c750bd2b68e6f6c2385"
+  },
+  "README.md": {
+    "size": 1941,
+    "time": 1721706958,
+    "hash": "4deba910a05371138c0b182f9c84d57a8741ae2e"
+  },
+  "assignments/README.md": {
+    "size": 39,
+    "time": 1721705735,
+    "hash": "0cd4ca8c71b2ca3d6c419c750bd2b68e6f6c2385"
+  },
+  "exams/README.md": {
+    "size": 54,
+    "time": 1721705735,
+    "hash": "0cd4ca8c71b2ca3d6c419c750bd2b68e6f6c2385"
+  },
+  "labs/README.md": {
+    "size": 395,
+    "time": 1721705735,
+    "hash": "0cd4ca8c71b2ca3d6c419c750bd2b68e6f6c2385"
+  },
+  "notes/README.md": {
+    "size": 42,
+    "time": 1721705735,
+    "hash": "0cd4ca8c71b2ca3d6c419c750bd2b68e6f6c2385"
+  },
+  "slides/README.md": {
+    "size": 58,
+    "time": 1721705735,
+    "hash": "0cd4ca8c71b2ca3d6c419c750bd2b68e6f6c2385"
+  },
+  "tag.txt": {
+    "size": 37,
+    "time": 1737297948,
+    "hash": "5a97b59376c7b231a9f26227f301985c69a93c0d"
+  }
+}
